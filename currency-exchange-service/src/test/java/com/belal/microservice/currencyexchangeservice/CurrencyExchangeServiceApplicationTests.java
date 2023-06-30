@@ -1,10 +1,10 @@
-package com.belal.microservices.limitsmicroservices;
+package com.belal.microservice.currencyexchangeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LimitsMicroservicesApplicationTests {
+class CurrencyExchangeServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
