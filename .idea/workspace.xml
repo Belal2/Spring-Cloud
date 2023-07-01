@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="797a7535-416f-442b-8b10-ac5b42d07b44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/src/main/java/com/belal/microservice/namingserver/NamingServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naming-server/src/test/java/com/belal/microservice/namingserver/NamingServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/naming-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/belal/microservice/currencyconversionservice/CurrencyConversionServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/belal/microservice/currencyconversionservice/clients/CurrencyExchangeProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/belal/microservice/currencyconversionservice/controller/CurrencyConversionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/belal/microservice/currencyconversionservice/model/CurrencyConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/src/test/java/com/belal/microservice/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-conversion-service/target/classes/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
